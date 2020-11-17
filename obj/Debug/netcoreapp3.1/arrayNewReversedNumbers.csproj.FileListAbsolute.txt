@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\DataTypes\arrayNew\bin\Debug\netcoreapp3.1\arrayNewReversedNumbers.exe
+C:\Users\Bla\source\repos\DataTypes\arrayNew\bin\Debug\netcoreapp3.1\arrayNewReversedNumbers.deps.json
+C:\Users\Bla\source\repos\DataTypes\arrayNew\bin\Debug\netcoreapp3.1\arrayNewReversedNumbers.runtimeconfig.json
+C:\Users\Bla\source\repos\DataTypes\arrayNew\bin\Debug\netcoreapp3.1\arrayNewReversedNumbers.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\DataTypes\arrayNew\bin\Debug\netcoreapp3.1\arrayNewReversedNumbers.dll
+C:\Users\Bla\source\repos\DataTypes\arrayNew\bin\Debug\netcoreapp3.1\arrayNewReversedNumbers.pdb
+C:\Users\Bla\source\repos\DataTypes\arrayNew\obj\Debug\netcoreapp3.1\arrayNewReversedNumbers.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\DataTypes\arrayNew\obj\Debug\netcoreapp3.1\arrayNewReversedNumbers.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DataTypes\arrayNew\obj\Debug\netcoreapp3.1\arrayNewReversedNumbers.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DataTypes\arrayNew\obj\Debug\netcoreapp3.1\arrayNewReversedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DataTypes\arrayNew\obj\Debug\netcoreapp3.1\arrayNewReversedNumbers.dll
+C:\Users\Bla\source\repos\DataTypes\arrayNew\obj\Debug\netcoreapp3.1\arrayNewReversedNumbers.pdb
+C:\Users\Bla\source\repos\DataTypes\arrayNew\obj\Debug\netcoreapp3.1\arrayNewReversedNumbers.genruntimeconfig.cache
